@@ -1,6 +1,5 @@
 # CSE-165-Minesweeper
 CSE-165 Object Orientated Programming Project from UC Merced
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Minesweeper.md</title><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Minesweaper_0"></a>Minesweaper</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">This project is an assignment from the UC Merced CSE 165 Object Orientaed Programming course of Fall 2019.</p>
 <p class="has-line-data" data-line-start="4" data-line-end="5">The original work I wrote for this projects are</p>
